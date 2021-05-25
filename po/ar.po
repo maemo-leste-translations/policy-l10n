@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: policy 20090309131607\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.03.09 13:16+0200\n"
+"PO-Revision-Date: 2010-04-01 10:33+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "poli_ib_camera_prevented"
+msgstr ""
+"غير قادر على أستخدام الكاميرا.\n"
+"الصوت مستخدم مع تطبيق آخر."
+
+msgid "poli_ib_playback_prevented"
+msgstr ""
+"غير قادر على فتح الوسائط.\n"
+"الصوت مستخدم مع تطبيق آخر."
+
